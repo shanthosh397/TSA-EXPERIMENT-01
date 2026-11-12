@@ -1,7 +1,7 @@
 # Experiment 01 – Plot a Time Series Data
 
-## NAME: HANIEL REENA D R
-## REGISTER NO: 2305001008
+## NAME: SHANTHOSH G
+## REGISTER NO: 2305003008
 
 ## Aim
 
